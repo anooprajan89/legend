@@ -1,0 +1,14 @@
+[
+{
+	"type": "due",
+	"name": "Incoming Due Date"
+},
+{
+	"type": "overdue",
+	"name": "Batch Overdue"
+},
+{
+	"type": "hold",
+	"name": "Batch on hold"
+}
+]
